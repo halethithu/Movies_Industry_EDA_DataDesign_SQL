@@ -11,12 +11,7 @@ The results will be used for the reporting in the next step, using SQL Server Re
 is a dataset with 7,668 records about movies from 1980 to 2020.
 
 ## Script file
-[Movies Industry EDA and Data Cleansing](https://github.com/halethithu/Use_SQL_in_Python_with_sqlite3/blob/main/Sql_Mental_Health.ipynb)
-
-
-## Walk through video
-
-[Movies Industry EDA and Data Cleansing](https://www.youtube.com/watch?v=Mrw9BopaTTE)
+[Movies Industry EDA and Data Cleansing](https://github.com/halethithu/Movies_Industry_EDA_DataDesign_SQL/blob/main/Movies_Industry_Script.sql)
 
 
 ## Reference
